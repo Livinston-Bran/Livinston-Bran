@@ -99,7 +99,6 @@
 
 
 # My Stats :
-
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livinston-bran&show_icons=true&locale=en" alt="livinston-bran" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
