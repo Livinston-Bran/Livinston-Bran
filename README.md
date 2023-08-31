@@ -9,12 +9,14 @@
 
 ![logo](https://github.com/Livinston-Bran/Livinston-Bran/blob/main/GitHub%20Banner.png)
 
+
 </br>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Livinston-Bran&label=Profile%20views&color=0e75b6&style=flat" alt="Livinston-Bran" /> 
 </p>
 </br>
+
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -97,6 +99,9 @@
 
 
 # My Stats :
-[![](https://raw.githubusercontent.com/Livinston-Bran/Livinston-Bran/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Livinston-Bran/Livinston-Bran/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Livinston-Bran/Livinston-Bran/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Livinston-Bran/Livinston-Bran/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Livinston-Bran/Livinston-Bran/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livinston-bran&show_icons=true&locale=en" alt="livinston-bran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
