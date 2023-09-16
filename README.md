@@ -105,4 +105,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
 
 #Top Contributed Repo :
-<p align="center">![](https://github-contributor-stats.vercel.app/api?username=livinston-bran&limit=5&combine_all_yearly_contributions=true)</p>
+![](https://github-contributor-stats.vercel.app/api?username=livinston-bran&limit=5&combine_all_yearly_contributions=true)
