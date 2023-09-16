@@ -99,11 +99,13 @@
 
 
 # My Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livinston-bran&show_icons=true&locale=en" alt="livinston-bran" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
-  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=livinston-bran&show_icons=true&locale=en" alt="livinston-bran" /></p>
+
+# Top Languages :
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
+
+# Streak :
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
 
 # Top Contributed Repo :
-
-<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=livinston-bran&limit=5&combine_all_yearly_contributions=true" /></p>
+<p><img src="https://github-contributor-stats.vercel.app/api?username=livinston-bran&limit=5&combine_all_yearly_contributions=true" /></p>
