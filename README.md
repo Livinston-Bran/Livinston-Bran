@@ -17,15 +17,16 @@
 </p>
 </br>
 
-
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Livinston-Bran&row=2&column=7" alt="bran-livinston" />
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Livinston-Bran&row=2&column=7&theme=react&no-bg=true&margin-w=20&margin-h=20&count_private=true&show_icons=true" alt="bran-livinston" />
+</a>
 </p>
 
+
 </br>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+-->
 
 #  About Me:
 -  I’m currently learning **Frame work || Cloud || Automation testing || Fundamentals**
@@ -99,13 +100,13 @@
 
 
 # My Stats :
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=livinston-bran&show_icons=true&locale=en" alt="livinston-bran" /></p>
+ <br/>
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Livinston-Bran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livinston-Bran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
-# Top Languages :
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=livinston-bran&show_icons=true&locale=en&layout=compact" alt="livinston-bran" /></p>
-
-# Streak :
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=livinston-bran&" alt="livinston-bran" /></p>
-
-# Top Contributed Repo :
-<p><img src="https://github-contributor-stats.vercel.app/api?username=livinston-bran&limit=5&combine_all_yearly_contributions=true" /></p>
+# My Metrics :
+![Metrics](https://metrics.lecoq.io/livinston-bran?template=classic&config.timezone=Asia%2FColombo)
