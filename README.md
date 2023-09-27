@@ -14,6 +14,9 @@
 
 <p> 
     <img src="https://komarev.com/ghpvc/?username=Livinston-Bran&label=Profile%20views&color=0e75b6&style=flat"/> 
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Livinston-Bran?color=red&style=flat&logo=star"/>
+    <img src="https://img.shields.io/github/followers/Livinston-Bran?color=brightgreen&style=fla&logo=github"/>
+ </p>
 </p>
 </br>
 
