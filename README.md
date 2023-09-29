@@ -28,10 +28,10 @@
 
 
 </br>
-<!-- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
--->
 
 #  About Me:
+<img align="right" alt="coding" width="180" src="https://github.com/Livinston-Bran/Livinston-Bran/blob/main/rivetertocat.png">
+
 -  I’m currently learning **Frame work || Cloud || Automation testing || Fundamentals**
 
 -  How to reach me **branlivinston16@gmail.com**
