@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Software Engineer and Developer</h3>
 
-![logo](https://github.com/Livinston-Bran/Livinston-Bran/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/Livinston-Bran/Livinston-Bran/blob/main/GitHub%20Banner.jpg)
 
 
 </br>
