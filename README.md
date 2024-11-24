@@ -57,10 +57,10 @@
   <a href="https://www.hackerrank.com/profile/branlivinston16" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://instagram.com/young_hustler_official_" target="_blank">
+  <a href="https://instagram.com/bran_livinston" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:branlivinston16@hotmail.com" target="_blank">
+  <a href="mailto:branlivinston@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=%2B94752396046&text&type=phone_number&app_absent=0" target="_blank">
