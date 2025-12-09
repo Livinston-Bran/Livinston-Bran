@@ -25,12 +25,7 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Livinston-Bran&column=10&theme=react&no-bg=true&margin-h=50&count_private=true&show_icons=true"/>
-    </a>
-</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Livinston-Bran)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </br>
