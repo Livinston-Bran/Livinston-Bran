@@ -60,7 +60,7 @@
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
 </a>
 
-<a href="https://t.me/livinstonbran">
+<a href="https://t.me/branlivinston">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
 </a>
 
